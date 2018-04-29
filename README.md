@@ -1,3 +1,3 @@
 # Hellow-Python
-the first repository\n
+the first repository
 This is the python sample code  repository 
